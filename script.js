@@ -1,5 +1,10 @@
 console.log("JS ielādējās, bro");
 
+let name = "Leonardo"
+
+for( let i = 0 ; i < 10 ; i ++){
+    console.log(i)
+}
 
 
 
